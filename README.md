@@ -7,11 +7,11 @@ This project analyzes sales data for a clothing company to help identify and und
 Business Questions:
 
 This project analyzes retail sales data to answer the following business questions:
-Which products sell best?
-Which regions perform best?
-Which months are strongest?
-Which customers spend the most?
-Which categories should we invest in?
+- Which products sell best?
+- Which regions perform best?
+- Which months are strongest?
+- Which customers spend the most?
+- Which categories should we invest in?
 
 Tools:
 
